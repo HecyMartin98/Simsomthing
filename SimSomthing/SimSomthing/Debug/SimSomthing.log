@@ -1,0 +1,9 @@
+﻿  D3dclass.cpp
+  graphicsclass.cpp
+G:\UWE_Work\Year 3\SimSomthing\SimSomthing\d3dclass.h(17,10): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  Main.cpp
+G:\UWE_Work\Year 3\SimSomthing\SimSomthing\d3dclass.h(17,10): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  systemclass.cpp
+G:\UWE_Work\Year 3\SimSomthing\SimSomthing\d3dclass.h(17,10): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  Generating Code...
+G:\UWE_Work\Year 3\SimSomthing\SimSomthing\d3dclass.h(17,10): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
