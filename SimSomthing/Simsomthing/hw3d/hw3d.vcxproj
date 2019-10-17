@@ -23,6 +23,7 @@
     <ProjectGuid>{63E56790-0977-47CC-B52B-B1BF8746AFD4}</ProjectGuid>
     <RootNamespace>hw3d</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Simsomthing</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -173,9 +174,6 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="hw3d.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="chili.ico" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DXGetErrorDescription.inl" />
